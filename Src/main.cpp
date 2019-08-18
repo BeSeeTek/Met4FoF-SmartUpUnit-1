@@ -55,7 +55,7 @@
 #include "can.h"
 #include "dac.h"
 #include "dma.h"
-#include "fatfs.h"
+//#include "fatfs.h"
 #include "i2c.h"
 #include "lwip.h"
 #include "rng.h"

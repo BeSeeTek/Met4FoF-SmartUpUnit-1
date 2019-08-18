@@ -78,6 +78,8 @@ extern "C" {
 #include "SEGGER_RTT.h"
 #include <GPSTimesyn.hpp>
 #include "tim64extender.h"
+
+#include "ptpd.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 

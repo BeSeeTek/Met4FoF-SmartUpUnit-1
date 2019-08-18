@@ -170,6 +170,13 @@ struct pbuf {
    * the stack itself, or pbuf->next pointers from a chain.
    */
   u16_t ref;
+
+
+  /**
+   * a field that contains the timestamp that this packet was received.
+   */
+  s32_t time_sec;
+  s32_t time_nsec;
 };
 
 

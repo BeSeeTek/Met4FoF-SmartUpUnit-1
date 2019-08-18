@@ -261,6 +261,5 @@ void UART7_IRQHandler(void)
   SEGGER_SYSVIEW_RecordExitISR();
 }
 /* USER CODE BEGIN 1 */
-
 /* USER CODE END 1 */
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/

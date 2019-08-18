@@ -38,6 +38,9 @@
 								<option id="gnu.c.compiler.option.debugging.level.1943494740" name="Debug Level" superClass="gnu.c.compiler.option.debugging.level" useByScannerDiscovery="false" value="gnu.c.debugging.level.max" valueType="enumerated"/>
 								<option id="gnu.c.compiler.option.include.paths.1891951412" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
 									<listOptionValue builtIn="false" value="../Inc"/>
+									<listOptionValue builtIn="false" value="../Middlewares/ptpd-2.0.0/src/"/>
+									<listOptionValue builtIn="false" value="../Middlewares/ptpd-2.0.0/src/dep"/>
+									<listOptionValue builtIn="false" value="../Middlewares/ptpd-2.0.0/"/>
 									<listOptionValue builtIn="false" value="../protobuff_deps"/>
 									<listOptionValue builtIn="false" value="../Middlewares/Third_Party/LwIP/src/include"/>
 									<listOptionValue builtIn="false" value="../Middlewares/Third_Party/LwIP/system"/>
@@ -74,6 +77,9 @@
 								<option id="gnu.cpp.compiler.option.debugging.level.1176094020" name="Debug Level" superClass="gnu.cpp.compiler.option.debugging.level" useByScannerDiscovery="false" value="gnu.cpp.compiler.debugging.level.max" valueType="enumerated"/>
 								<option id="gnu.cpp.compiler.option.include.paths.492398949" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
 									<listOptionValue builtIn="false" value="../Inc"/>
+									<listOptionValue builtIn="false" value="../Middlewares/ptpd-2.0.0/src/dep"/>
+									<listOptionValue builtIn="false" value="../Middlewares/ptpd-2.0.0/src/"/>
+									<listOptionValue builtIn="false" value="../Middlewares/ptpd-2.0.0/"/>
 									<listOptionValue builtIn="false" value="../protobuff_deps"/>
 									<listOptionValue builtIn="false" value="../Middlewares/Third_Party/LwIP/src/include"/>
 									<listOptionValue builtIn="false" value="../Middlewares/Third_Party/LwIP/system"/>

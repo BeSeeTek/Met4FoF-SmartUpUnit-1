@@ -154,6 +154,7 @@ void MX_FREERTOS_Init(void) {
 	DataStreamerTID = osThreadCreate(osThread(DataStreamerThread), NULL);
 
 	initGPSTimesny();
+	ptpd_init();
 	/* USER CODE BEGIN RTOS_THREADS */
 	/* add threads, ... */
 	/* USER CODE END RTOS_THREADS */
